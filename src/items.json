@@ -1,0 +1,7 @@
+{
+    "brands": ["Mi", "Apple", "Samsung", "Oppo"],
+    "Mi": ["Redmi note 7",  "Redmi note 7 Pro",  "Redmi note 8",  "Redmi note 8 pro"],
+    "Apple": ["iPhone 12", "iPhone 12 pro", "iPhone 12 pro max", "iPad pro 12.9"],
+    "Samsung": ["Galaxy A22", "Galaxy m12"], 
+    "Oppo": ["A95 5G", "A94 5G"]
+}
